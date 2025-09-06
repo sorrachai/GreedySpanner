@@ -1,3 +1,3 @@
 -- This module serves as the root of the `GreedySpanner` library.
 -- Import modules here that should be built as part of the library.
-import «GreedySpanner».Basic
+import «GreedySpanner».GreedySpanner
